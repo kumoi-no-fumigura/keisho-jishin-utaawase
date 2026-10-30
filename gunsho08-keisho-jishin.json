@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/keisho-jishin-utaawase",
  "yomi": "けいしょうじしんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三題）",
+  "era": "建永元年（1206）",
+  "author": "主催 後鳥羽院",
+  "desc": "後鳥羽院のもとで公卿と侍臣が左右に分かれて詠んだ歌合。朝草花・海辺月・旅中暮の題で、院・慈円・通光・公経・家隆・定家・秀能らが詠み、衆議の判の詞を院が後日宸筆で下した。"
+ },
  "editions": [
   {
    "pid": "1879502",
